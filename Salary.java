@@ -1,5 +1,6 @@
 /* 
 Author: Balderas, Diana
+Submitted: 2018/26/09
 */
 
 import java.util.Scanner;
@@ -11,7 +12,7 @@ public class Salary
 		int power = 1;
 		int days; // user's input of days
 		int penniesConverter; // converts pennies to dollars (measurement)
-	    double totalAmount = 0; // dollars
+	        double totalAmount = 0; // dollars
 		double decimal; // mathematical operation
 		
 		System.out.println("This programs displays the pennies you made each day, but every penny is doubled.");
