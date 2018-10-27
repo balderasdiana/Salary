@@ -1,9 +1,5 @@
 /* 
 Author: Balderas, Diana
-Assignment: Programming Assignment #04
-Course: COMP B11 AM
-Instructor: Richard Miles
-Submitted: 2018/26/09
 */
 
 import java.util.Scanner;
